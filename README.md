@@ -23,8 +23,19 @@ for some certain reason make sure you contact me before use ✅
 
 🔳 cd Telegram-WhatsApp-ban
 
-🔳 bash killer.sh
+🔳 chmod +x killer
 
+🔳 ./killer
+
+####################################
+        ONE LINE COMMAND
+####################################
+
+🔥 pkg install git -y
+git clone https://github.com/whizzy28639/Telegram-WhatsApp-ban.git
+cd Telegram-WhatsApp-ban
+chmod +x killer
+./killer
 
 First: Install the tools according to the instructions mentioned above
 
